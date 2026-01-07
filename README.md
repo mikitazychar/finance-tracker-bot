@@ -34,7 +34,7 @@ Telegram-бот для управления личными финансами. �
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone [https://github.com/ваш-логин/finance-tracker-bot.git](https://github.com/ваш-логин/finance-tracker-bot.git)
+   git clone [https://github.com/ваш-логин/finance-tracker-bot.git](https://github.com/mikitazychar/finance-tracker-bot.git)
    cd finance-tracker-bot
 
 2. **Создайте и активируйте виртуальное окружение:**
